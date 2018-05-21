@@ -1,0 +1,3 @@
+rootProject.name = 'YanKai'
+
+include ':app'
